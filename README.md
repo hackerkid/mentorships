@@ -6,7 +6,7 @@ I would be posting the assignments and materials here. Please keep on checking t
 **Deadline - September 9, 2016**
 
 * Create an account on [Github](https://github.com). 
-* Create an account on Gitter by logging with the Github account you just created. 
+* Create an account on [Gitter](https://gitter.im) by logging with the Github account you just created. 
 * Write a `C` program for checking whether a number is prime or not. Name the file as `check_prime.cpp`. the program will take a number  as input and outputs `True' if it's prime and 'False' if it's not.
 * Don't copy. I will check the code for plagiarism myslef. 
 * Share the file in the group [chat](https://gitter.im/hackerkid/mentorships).
