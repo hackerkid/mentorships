@@ -1,11 +1,9 @@
 # Mentorships
 
-> ToDos and Materials for students who are mentored by me
-
-I would be posting the assignments and materials here. Please keep on checking them every few days. Make sure that you try to complete all the assignments in time. If you are in trouble or want to talk with other students or me join the [chat](https://gitter.im/hackerkid/mentorships).
+I would be posting the assignments and materials here. Please keep on checking them every few days. Make sure that you try to complete all the assignments in time. If you are in trouble or want to talk with other students or me join the [chat](https://gitter.im/hackerkid/mentorships). If you have any quizes of lab exams let me know before hand. I will change the deadlines accordingly. 
 
 ## Assignment 1
-** Deadline - September 9, 2016 **
+**Deadline - September 9, 2016**
 
 * Create an account on [Github](https://github.com). 
 * Create an account on Gitter by logging with the Github account you just created. 
@@ -19,8 +17,8 @@ I would be posting the assignments and materials here. Please keep on checking t
 * Edx cs50 - The best CS course in the world. An introduction to the intellectual enterprises of computer science and the art of programming.
 
 ## Assignment 2
-** Deadline - September 13, 2016 **
+**Deadline - September 13, 2016**
 
-* Create an account on Github. 
-* Make a repository called programs.
+* Make a repository called programs in Github.
 * Add the 'check_prime.cpp' file to 'programs' repository.
+* The commit message should be "Add program to check whether number is prime."
