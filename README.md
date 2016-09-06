@@ -22,6 +22,7 @@ I would be posting the assignments and materials here. Please keep on checking t
 * Make a repository called programs in Github.
 * Add the `check_prime.cpp` file to `programs` repository.
 * The commit message should be "Add program to check whether number is prime."
+* Share the link of your repository in the group chat. 
 
 ### Resources
 
