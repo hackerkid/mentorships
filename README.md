@@ -27,3 +27,10 @@ I would be posting the assignments and materials here. Please keep on checking t
 ### Resources
 
 Go through [this guide](https://guides.github.com/activities/hello-world/) carefully.
+
+## Assignment 3
+**Deadline - September 21, 2016**
+Add a new language and extension to the README.md file of [this repositary](https://github.com/hackerkid/program-filename-extensions).
+
+Extra points if you commit using Git rather than using Github :)
+HINT: You have to create a new pull request for making me accept the change. 
